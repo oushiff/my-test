@@ -19,6 +19,7 @@ using System.Resources;
 
 namespace Client
 {
+
     public partial class chat : Form
     {
         #region 私有字段
