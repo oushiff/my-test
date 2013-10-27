@@ -10,7 +10,7 @@ namespace Client
     class TCPConnection
     {
         private IPAddress _ip = null;
-        private int _port;
+        public int _port;
         private TcpClient _tcpc = null;
 
         //构造函数，得到IP地址的端口号
