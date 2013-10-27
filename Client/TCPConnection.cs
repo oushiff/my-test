@@ -7,8 +7,6 @@ using System.Net;
 
 namespace Client
 {
-
-
     class TCPConnection
     {
         private IPAddress _ip = null;
